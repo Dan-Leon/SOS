@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SOS</string>
+    <string name="txt_p_name">Patient Name:</string>
+    <string name="txt_e_name">Name:</string>
+    <string name="txt_address">Address:</string>
+    <string name="txt_phone">Phone:</string>
+    <string name="emergency_contact">Emergency Contact Info</string>
+    <string name="txt_allergies">Allergies:</string>
+    <string name="txt_disease_states">Disease States:</string>
+    <string name="medications">Medications:</string>
+    <string name="ned_history">Medical History:</string>
+
+</resources>
